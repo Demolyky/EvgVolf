@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'horoscope',
-    'week_days'
+    'week_days',
 ]
 
 MIDDLEWARE = [
